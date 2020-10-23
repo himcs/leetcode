@@ -22,3 +22,6 @@
 - 20201021   [1480. 一维数组的动态和](https://leetcode-cn.com/problems/running-sum-of-1d-array/)
 - 20201021   [1512. 好数对的数目](https://leetcode-cn.com/problems/number-of-good-pairs/submissions/)
 - 20201022   [1588.  所有奇数长度子数组的和](https://leetcode-cn.com/problems/sum-of-all-odd-length-subarrays/)
+- 20201022   [1431. 拥有最多糖果的孩子](https://leetcode-cn.com/problems/kids-with-the-greatest-number-of-candies/)
+- 20201023  [1385. 两个数组间的距离值](https://leetcode-cn.com/problems/find-the-distance-value-between-two-arrays/)
+- 20201023  [999. 可以被一步捕获的棋子数](https://leetcode-cn.com/problems/available-captures-for-rook/)
