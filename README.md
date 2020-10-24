@@ -25,3 +25,5 @@
 - 20201022   [1431. 拥有最多糖果的孩子](https://leetcode-cn.com/problems/kids-with-the-greatest-number-of-candies/)
 - 20201023  [1385. 两个数组间的距离值](https://leetcode-cn.com/problems/find-the-distance-value-between-two-arrays/)
 - 20201023  [999. 可以被一步捕获的棋子数](https://leetcode-cn.com/problems/available-captures-for-rook/)
+- 20201024  [1217. 玩筹码](https://leetcode-cn.com/problems/minimum-cost-to-move-chips-to-the-same-position/submissions/)
+- 20201024  [922. 按奇偶排序数组 II](https://leetcode-cn.com/problems/sort-array-by-parity-ii/)
