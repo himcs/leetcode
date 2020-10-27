@@ -27,3 +27,5 @@
 - 20201023  [999. 可以被一步捕获的棋子数](https://leetcode-cn.com/problems/available-captures-for-rook/)
 - 20201024  [1217. 玩筹码](https://leetcode-cn.com/problems/minimum-cost-to-move-chips-to-the-same-position/submissions/)
 - 20201024  [922. 按奇偶排序数组 II](https://leetcode-cn.com/problems/sort-array-by-parity-ii/)
+- 20201026  [1491. 去掉最低工资和最高工资后的工资平均值](https://leetcode-cn.com/problems/average-salary-excluding-the-minimum-and-maximum-salary/)
+- 20201026  [867. 转置矩阵](https://leetcode-cn.com/problems/transpose-matrix/)
