@@ -29,3 +29,5 @@
 - 20201024  [922. 按奇偶排序数组 II](https://leetcode-cn.com/problems/sort-array-by-parity-ii/)
 - 20201026  [1491. 去掉最低工资和最高工资后的工资平均值](https://leetcode-cn.com/problems/average-salary-excluding-the-minimum-and-maximum-salary/)
 - 20201026  [867. 转置矩阵](https://leetcode-cn.com/problems/transpose-matrix/)
+- 20201027  [1122. 数组的相对排序](https://leetcode-cn.com/problems/relative-sort-array/submissions/)
+- 20201027  [1200. 最小绝对差](https://leetcode-cn.com/problems/minimum-absolute-difference/)
