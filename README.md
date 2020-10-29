@@ -31,3 +31,5 @@
 - 20201026  [867. 转置矩阵](https://leetcode-cn.com/problems/transpose-matrix/)
 - 20201027  [1122. 数组的相对排序](https://leetcode-cn.com/problems/relative-sort-array/submissions/)
 - 20201027  [1200. 最小绝对差](https://leetcode-cn.com/problems/minimum-absolute-difference/)
+- 20201028  [766. 托普利茨矩阵](https://leetcode-cn.com/problems/toeplitz-matrix/submissions/)
+- 20201028  [1394. 找出数组中的幸运数](https://leetcode-cn.com/problems/find-lucky-integer-in-an-array/)
