@@ -32,4 +32,6 @@
 - 20201027  [1122. 数组的相对排序](https://leetcode-cn.com/problems/relative-sort-array/submissions/)
 - 20201027  [1200. 最小绝对差](https://leetcode-cn.com/problems/minimum-absolute-difference/)
 - 20201028  [766. 托普利茨矩阵](https://leetcode-cn.com/problems/toeplitz-matrix/submissions/)
-- 20201028  [1394. 找出数组中的幸运数](https://leetcode-cn.com/problems/find-lucky-integer-in-an-array/)
+- 20201028  [766. 托普利茨矩阵](https://leetcode-cn.com/problems/toeplitz-matrix/submissions/)
+- 20201030  [1582. 二进制矩阵中的特殊位置](https://leetcode-cn.com/problems/special-positions-in-a-binary-matrix/submissions/)
+- 20201030  [509. 斐波那契数](https://leetcode-cn.com/problems/fibonacci-number/)
