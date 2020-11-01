@@ -35,3 +35,5 @@
 - 20201028  [766. 托普利茨矩阵](https://leetcode-cn.com/problems/toeplitz-matrix/submissions/)
 - 20201030  [1582. 二进制矩阵中的特殊位置](https://leetcode-cn.com/problems/special-positions-in-a-binary-matrix/submissions/)
 - 20201030  [509. 斐波那契数](https://leetcode-cn.com/problems/fibonacci-number/)
+- 20201101  [1399. 统计最大组的数目](https://leetcode-cn.com/problems/count-largest-group/)
+- 20201101  [1608. 特殊数组的特征值](https://leetcode-cn.com/problems/special-array-with-x-elements-greater-than-or-equal-x/)
