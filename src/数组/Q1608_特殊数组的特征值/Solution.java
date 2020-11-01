@@ -6,11 +6,16 @@ public class Solution {
     public int specialArray(int[] nums) {
         Arrays.sort(nums);
         int len = nums.length;
-        if (nums[0] >= len) return len;
         for (int x = 1; x <= len; x++) {
-            if (((len - x - 1) >= 0) && ((len - x) < len) && (nums[len - x] >= x) && nums[len - x - 1] < x) {
-                return x;
+            int min = 0;
+            //len - x - 1 有可能 小于 0
+            if ((len - x - 1) >= 0) {
+                min = nums[len - x - 1];
             }
+            //len - x 必定 不溢出边界
+            int max = nums[len - x];
+            if (x > min && x <= max)
+                return x;
         }
         return -1;
     }
