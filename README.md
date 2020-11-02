@@ -37,3 +37,5 @@
 - 20201030  [509. 斐波那契数](https://leetcode-cn.com/problems/fibonacci-number/)
 - 20201101  [1399. 统计最大组的数目](https://leetcode-cn.com/problems/count-largest-group/)
 - 20201101  [1608. 特殊数组的特征值](https://leetcode-cn.com/problems/special-array-with-x-elements-greater-than-or-equal-x/)
+- 20201102  [面试题 01.02. 判定是否互为字符重排](https://leetcode-cn.com/problems/check-permutation-lcci/)
+- 20201102  [169. 多数元素](https://leetcode-cn.com/problems/majority-element/)
