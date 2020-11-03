@@ -39,3 +39,5 @@
 - 20201101  [1608. 特殊数组的特征值](https://leetcode-cn.com/problems/special-array-with-x-elements-greater-than-or-equal-x/)
 - 20201102  [面试题 01.02. 判定是否互为字符重排](https://leetcode-cn.com/problems/check-permutation-lcci/)
 - 20201102  [169. 多数元素](https://leetcode-cn.com/problems/majority-element/)
+- 20201103  [面试题 17.04. 消失的数字](https://leetcode-cn.com/problems/missing-number-lcci/)
+- 20201103  [566. 重塑矩阵](https://leetcode-cn.com/problems/reshape-the-matrix/)
