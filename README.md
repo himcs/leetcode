@@ -41,3 +41,5 @@
 - 20201102  [169. 多数元素](https://leetcode-cn.com/problems/majority-element/)
 - 20201103  [面试题 17.04. 消失的数字](https://leetcode-cn.com/problems/missing-number-lcci/)
 - 20201103  [566. 重塑矩阵](https://leetcode-cn.com/problems/reshape-the-matrix/)
+- 20201104  [1337. 方阵中战斗力最弱的 K 行](https://leetcode-cn.com/problems/the-k-weakest-rows-in-a-matrix/)
+- 20201104  [119. 杨辉三角 II](https://leetcode-cn.com/problems/pascals-triangle-ii/)
