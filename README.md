@@ -43,3 +43,5 @@
 - 20201103  [566. 重塑矩阵](https://leetcode-cn.com/problems/reshape-the-matrix/)
 - 20201104  [1337. 方阵中战斗力最弱的 K 行](https://leetcode-cn.com/problems/the-k-weakest-rows-in-a-matrix/)
 - 20201104  [119. 杨辉三角 II](https://leetcode-cn.com/problems/pascals-triangle-ii/)
+- 20201105  [1170. 比较字符串最小字母出现频次](https://leetcode-cn.com/problems/compare-strings-by-frequency-of-the-smallest-character/submissions/)
+- 20201105  [1287. 有序数组中出现次数超过25%的元素](https://leetcode-cn.com/problems/element-appearing-more-than-25-in-sorted-array/)
