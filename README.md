@@ -45,3 +45,5 @@
 - 20201104  [119. 杨辉三角 II](https://leetcode-cn.com/problems/pascals-triangle-ii/)
 - 20201105  [1170. 比较字符串最小字母出现频次](https://leetcode-cn.com/problems/compare-strings-by-frequency-of-the-smallest-character/submissions/)
 - 20201105  [1287. 有序数组中出现次数超过25%的元素](https://leetcode-cn.com/problems/element-appearing-more-than-25-in-sorted-array/)
+- 20201106  [448. 找到所有数组中消失的数字](https://leetcode-cn.com/problems/find-all-numbers-disappeared-in-an-array/)
+- 20201106  [1185. 一周中的第几天](https://leetcode-cn.com/problems/day-of-the-week/)
