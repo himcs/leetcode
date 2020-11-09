@@ -47,3 +47,8 @@
 - 20201105  [1287. 有序数组中出现次数超过25%的元素](https://leetcode-cn.com/problems/element-appearing-more-than-25-in-sorted-array/)
 - 20201106  [448. 找到所有数组中消失的数字](https://leetcode-cn.com/problems/find-all-numbers-disappeared-in-an-array/)
 - 20201106  [1185. 一周中的第几天](https://leetcode-cn.com/problems/day-of-the-week/)
+
+### 字符串
+- 20201109  [剑指 Offer 58 - II. 左旋转字符串](https://leetcode-cn.com/problems/zuo-xuan-zhuan-zi-fu-chuan-lcof/submissions/)
+- 20201109  [1108. IP 地址无效化](https://leetcode-cn.com/problems/defanging-an-ip-address/submissions/)
+
