@@ -51,4 +51,6 @@
 ### 字符串
 - 20201109  [剑指 Offer 58 - II. 左旋转字符串](https://leetcode-cn.com/problems/zuo-xuan-zhuan-zi-fu-chuan-lcof/submissions/)
 - 20201109  [1108. IP 地址无效化](https://leetcode-cn.com/problems/defanging-an-ip-address/submissions/)
+- 20201110  [1221. 分割平衡字符串](https://leetcode-cn.com/problems/split-a-string-in-balanced-strings/submissions/)
+- 20201110  [1614. 括号的最大嵌套深度](https://leetcode-cn.com/problems/maximum-nesting-depth-of-the-parentheses/solution/)
 
