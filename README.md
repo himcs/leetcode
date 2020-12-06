@@ -61,3 +61,5 @@
 - 20201203  [557. 反转字符串中的单词 III](https://leetcode-cn.com/problems/reverse-words-in-a-string-iii/)
 - 20201203  [1374. 生成每种字符都是奇数个的字符串](https://leetcode-cn.com/problems/generate-a-string-with-characters-that-have-odd-counts/)
 - 20201203  [893. 特殊等价字符串组](https://leetcode-cn.com/problems/groups-of-special-equivalent-strings/)
+- 20201206  [521. 最长特殊序列 Ⅰ](https://leetcode-cn.com/problems/longest-uncommon-subsequence-i/)
+- 20201206  [面试题 01.02. 判定是否互为字符重排](https://leetcode-cn.com/problems/check-permutation-lcci/submissions/)
