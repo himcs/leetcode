@@ -63,3 +63,4 @@
 - 20201203  [893. 特殊等价字符串组](https://leetcode-cn.com/problems/groups-of-special-equivalent-strings/)
 - 20201206  [521. 最长特殊序列 Ⅰ](https://leetcode-cn.com/problems/longest-uncommon-subsequence-i/)
 - 20201206  [面试题 01.02. 判定是否互为字符重排](https://leetcode-cn.com/problems/check-permutation-lcci/submissions/)
+- 20201207  [929. 独特的电子邮件地址](https://leetcode-cn.com/problems/unique-email-addresses/)
