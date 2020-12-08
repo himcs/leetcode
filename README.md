@@ -64,3 +64,6 @@
 - 20201206  [521. 最长特殊序列 Ⅰ](https://leetcode-cn.com/problems/longest-uncommon-subsequence-i/)
 - 20201206  [面试题 01.02. 判定是否互为字符重排](https://leetcode-cn.com/problems/check-permutation-lcci/submissions/)
 - 20201207  [929. 独特的电子邮件地址](https://leetcode-cn.com/problems/unique-email-addresses/)
+- 20201208  [1189. “气球” 的最大数量](https://leetcode-cn.com/problems/maximum-number-of-balloons/submissions/)
+- 20201208  [1455. 检查单词是否为句中其他单词的前缀](https://leetcode-cn.com/problems/check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence/)
+- 20201208  [1624. 两个相同字符之间的最长子字符串](https://leetcode-cn.com/problems/largest-substring-between-two-equal-characters/submissions/)
