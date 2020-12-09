@@ -67,3 +67,5 @@
 - 20201208  [1189. “气球” 的最大数量](https://leetcode-cn.com/problems/maximum-number-of-balloons/submissions/)
 - 20201208  [1455. 检查单词是否为句中其他单词的前缀](https://leetcode-cn.com/problems/check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence/)
 - 20201208  [1624. 两个相同字符之间的最长子字符串](https://leetcode-cn.com/problems/largest-substring-between-two-equal-characters/submissions/)
+- 20201209  [13. 罗马数字转整数](https://leetcode-cn.com/problems/roman-to-integer/submissions/)
+- 20201209  [1170. 比较字符串最小字母出现频次](https://leetcode-cn.com/problems/compare-strings-by-frequency-of-the-smallest-character/submissions/)
