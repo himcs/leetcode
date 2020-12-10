@@ -69,3 +69,5 @@
 - 20201208  [1624. 两个相同字符之间的最长子字符串](https://leetcode-cn.com/problems/largest-substring-between-two-equal-characters/submissions/)
 - 20201209  [13. 罗马数字转整数](https://leetcode-cn.com/problems/roman-to-integer/submissions/)
 - 20201209  [1170. 比较字符串最小字母出现频次](https://leetcode-cn.com/problems/compare-strings-by-frequency-of-the-smallest-character/submissions/)
+- 20201210  [1408. 数组中的字符串匹配](https://leetcode-cn.com/problems/string-matching-in-an-array/)
+- 20201210  [788. 旋转数字](https://leetcode-cn.com/problems/rotated-digits/)
