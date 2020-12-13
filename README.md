@@ -71,3 +71,4 @@
 - 20201209  [1170. 比较字符串最小字母出现频次](https://leetcode-cn.com/problems/compare-strings-by-frequency-of-the-smallest-character/submissions/)
 - 20201210  [1408. 数组中的字符串匹配](https://leetcode-cn.com/problems/string-matching-in-an-array/)
 - 20201210  [788. 旋转数字](https://leetcode-cn.com/problems/rotated-digits/)
+- 20201213  [824.山羊拉丁文](https://leetcode-cn.com/problems/goat-latin/submissions/)
