@@ -72,3 +72,6 @@
 - 20201210  [1408. 数组中的字符串匹配](https://leetcode-cn.com/problems/string-matching-in-an-array/)
 - 20201210  [788. 旋转数字](https://leetcode-cn.com/problems/rotated-digits/)
 - 20201213  [824.山羊拉丁文](https://leetcode-cn.com/problems/goat-latin/submissions/)
+- 20201214  [1556. 千位分隔数](https://leetcode-cn.com/problems/thousand-separator/)
+- 20201214  [1507. 转变日期格式](https://leetcode-cn.com/problems/reformat-date/)
+- 20201214  [面试题 01.03. URL化](https://leetcode-cn.com/problems/string-to-url-lcci/)
