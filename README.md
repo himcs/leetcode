@@ -38,7 +38,7 @@
 - 20201101  [1399. 统计最大组的数目](https://leetcode-cn.com/problems/count-largest-group/)
 - 20201101  [1608. 特殊数组的特征值](https://leetcode-cn.com/problems/special-array-with-x-elements-greater-than-or-equal-x/)
 - 20201102  [面试题 01.02. 判定是否互为字符重排](https://leetcode-cn.com/problems/check-permutation-lcci/)
-- 20201102  [169. 多数元素](https://leetcode-cn.com/problems/majority-element/)
+- 20201102  [169. `多数元素](https://leetcode-cn.com/problems/majority-element/)
 - 20201103  [面试题 17.04. 消失的数字](https://leetcode-cn.com/problems/missing-number-lcci/)
 - 20201103  [566. 重塑矩阵](https://leetcode-cn.com/problems/reshape-the-matrix/)
 - 20201104  [1337. 方阵中战斗力最弱的 K 行](https://leetcode-cn.com/problems/the-k-weakest-rows-in-a-matrix/)
@@ -79,4 +79,6 @@
 
 ### 链表
 
-- 20201214  [面试题 02.03. 删除中间节点](https://leetcode-cn.com/problems/delete-middle-node-lcci/)
+- 20201214  [面试题 02.03. 删除中间节点](https://leetcode-cn.com/problems/delete -middle-node-lcci/)
+- 20201215  [237. 删除链表中的节点](https://leetcode-cn.com/problems/delete-node-in-a-linked-list/submissions/ -middle-node-lcci/)
+- 20201215  [1290. 二进制链表转整数](https://leetcode-cn.com/problems/convert-binary-number-in-a-linked-list-to-integer/submissions/ -middle-node-lcci/)
