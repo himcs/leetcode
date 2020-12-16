@@ -79,6 +79,8 @@
 
 ### 链表
 
-- 20201214  [面试题 02.03. 删除中间节点](https://leetcode-cn.com/problems/delete -middle-node-lcci/)
-- 20201215  [237. 删除链表中的节点](https://leetcode-cn.com/problems/delete-node-in-a-linked-list/submissions/ -middle-node-lcci/)
-- 20201215  [1290. 二进制链表转整数](https://leetcode-cn.com/problems/convert-binary-number-in-a-linked-list-to-integer/submissions/ -middle-node-lcci/)
+- 20201214  [面试题 02.03. 删除中间节点](https://leetcode-cn.com/problems/delete)
+- 20201215  [237. 删除链表中的节点](https://leetcode-cn.com/problems/delete-node-in-a-linked-list/submissions/)
+- 20201215  [1290. 二进制链表转整数](https://leetcode-cn.com/problems/convert-binary-number-in-a-linked-list-to-integer/submissions/)
+- 20201216  [剑指 Offer 22. 链表中倒数第k个节点](https://leetcode-cn.com/problems/lian-biao-zhong-dao-shu-di-kge-jie-dian-lcof/submissions/)
+- 20201216  [剑指 Offer 06. 从尾到头打印链表](https://leetcode-cn.com/problems/cong-wei-dao-tou-da-yin-lian-biao-lcof/)
