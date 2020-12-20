@@ -87,3 +87,5 @@
 - 20201217  [剑指 Offer 24. 反转链表](https://leetcode-cn.com/problems/fan-zhuan-lian-biao-lcof/)
 - 20201218  [876. 链表的中间结点](https://leetcode-cn.com/problems/middle-of-the-linked-list/)
 - 20201218  [面试题 02.01. 移除重复节点](https://leetcode-cn.com/problems/remove-duplicate-node-lcci/)
+- 20201220  [面试题 02.07. 链表相交](https://leetcode-cn.com/problems/intersection-of-two-linked-lists-lcci/submissions/)
+- 20201220  [21. 合并两个有序链表](https://leetcode-cn.com/problems/merge-two-sorted-lists/)
