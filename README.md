@@ -89,3 +89,5 @@
 - 20201218  [面试题 02.01. 移除重复节点](https://leetcode-cn.com/problems/remove-duplicate-node-lcci/)
 - 20201220  [面试题 02.07. 链表相交](https://leetcode-cn.com/problems/intersection-of-two-linked-lists-lcci/submissions/)
 - 20201220  [21. 合并两个有序链表](https://leetcode-cn.com/problems/merge-two-sorted-lists/)
+- 20201222  [剑指 Offer 52. 两个链表的第一个公共节点](https://leetcode-cn.com/problems/liang-ge-lian-biao-de-di-yi-ge-gong-gong-jie-dian-lcof/)
+- 20201222  [剑指 Offer 18. 删除链表的节点](https://leetcode-cn.com/problems/shan-chu-lian-biao-de-jie-dian-lcof/submissions/)
