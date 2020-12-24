@@ -91,3 +91,5 @@
 - 20201220  [21. 合并两个有序链表](https://leetcode-cn.com/problems/merge-two-sorted-lists/)
 - 20201222  [剑指 Offer 52. 两个链表的第一个公共节点](https://leetcode-cn.com/problems/liang-ge-lian-biao-de-di-yi-ge-gong-gong-jie-dian-lcof/)
 - 20201222  [剑指 Offer 18. 删除链表的节点](https://leetcode-cn.com/problems/shan-chu-lian-biao-de-jie-dian-lcof/submissions/)
+- 20201223  [83. 删除排序链表中的重复元素](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list/)
+- 20201224  [141. 环形链表](https://leetcode-cn.com/problems/linked-list-cycle/)
