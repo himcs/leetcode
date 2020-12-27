@@ -93,3 +93,8 @@
 - 20201222  [剑指 Offer 18. 删除链表的节点](https://leetcode-cn.com/problems/shan-chu-lian-biao-de-jie-dian-lcof/submissions/)
 - 20201223  [83. 删除排序链表中的重复元素](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list/)
 - 20201224  [141. 环形链表](https://leetcode-cn.com/problems/linked-list-cycle/)
+
+
+### 二分查找
+
+- 20201227  [1351. 统计有序矩阵中的负数](https://leetcode-cn.com/problems/count-negative-numbers-in-a-sorted-matrix/)
