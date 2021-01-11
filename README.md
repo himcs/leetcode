@@ -100,3 +100,5 @@
 - 20201227  [1351. 统计有序矩阵中的负数](https://leetcode-cn.com/problems/count-negative-numbers-in-a-sorted-matrix/)
 - 20201230  [349. 两个数组的交集](https://leetcode-cn.com/problems/intersection-of-two-arrays/)
 - 20201230  [1237. 找出给定方程的正整数解](https://leetcode-cn.com/problems/find-positive-integer-solution-for-a-given-equation/)
+- 20210106 [392. 判断子序列](https://leetcode-cn.com/problems/is-subsequence/submissions/)
+- 20210111 [374. 猜数字大小](https://leetcode-cn.com/problems/guess-number-higher-or-lower/)
