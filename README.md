@@ -103,3 +103,7 @@
 - 20210106 [392. 判断子序列](https://leetcode-cn.com/problems/is-subsequence/submissions/)
 - 20210111 [374. 猜数字大小](https://leetcode-cn.com/problems/guess-number-higher-or-lower/)
 - 20210112 [367. 有效的完全平方数](https://leetcode-cn.com/problems/valid-perfect-square/)
+- 20210126 [1370. 上升下降字符串](https://leetcode-cn.com/problems/increasing-decreasing-string/)
+- 20210126 [1528. 重新排列字符串](https://leetcode-cn.com/problems/shuffle-string/)
+- 20210126 [1356. 根据数字二进制下 1 的数目排序](https://leetcode-cn.com/problems/sort-integers-by-the-number-of-1-bits/submissions/)
+坚持就是胜利
