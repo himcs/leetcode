@@ -106,4 +106,6 @@
 - 20210126 [1370. 上升下降字符串](https://leetcode-cn.com/problems/increasing-decreasing-string/)
 - 20210126 [1528. 重新排列字符串](https://leetcode-cn.com/problems/shuffle-string/)
 - 20210126 [1356. 根据数字二进制下 1 的数目排序](https://leetcode-cn.com/problems/sort-integers-by-the-number-of-1-bits/submissions/)
+- 20210204 [1710. 卡车上的最大单元数](https://leetcode-cn.com/problems/maximum-units-on-a-truck/)
+- 20210204 [1636. 按照频率将数组升序排序](https://leetcode-cn.com/problems/sort-array-by-increasing-frequency/)
 坚持就是胜利
