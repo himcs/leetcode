@@ -19,6 +19,7 @@ public class Solution {
         if (trace.length() == max * 2) {
             answer.add(trace.toString());
         }
+
         if (leftCount < max) {
             trace.append('(');
             backtrace(trace, leftCount + 1, rightCount);
