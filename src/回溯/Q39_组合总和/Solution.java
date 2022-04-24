@@ -11,12 +11,11 @@ public class Solution {
     public List<List<Integer>> combinationSum(int[] candidates, int target) {
         this.target = target;
         this.candidates = candidates;
-        backtrace(new ArrayList<>(),0);
+        backtrace(new ArrayList<>(),0,0);
         return result;
     }
 
-    private void backtrace(List<Integer> trace, int startIndex) {
-        long sum = getSum(trace);
+    private void backtrace(List<Integer> trace, int startIndex,int sum) {
         //满足条件
         if (sum == target) {
             ArrayList<Integer> integers = new ArrayList<>(trace);
@@ -26,10 +25,10 @@ public class Solution {
         for (int i = startIndex; i < candidates.length; i++) {
             int candidate = candidates[i];
             if (sum + candidate > target) {
-                return;
+                continue;
             }
             trace.add(candidate);
-            backtrace(trace, i);
+            backtrace(trace, i,sum+candidate);
             trace.remove(trace.size() - 1);
         }
 
@@ -44,8 +43,8 @@ public class Solution {
     }
 
     public static void main(String[] args) {
-        int[] candidates = new int[]{2, 3, 6, 7};
-        int target = 7;
+        int[] candidates = new int[]{2,7,6,3,5,1};
+        int target = 9;
         List<List<Integer>> lists = new Solution().combinationSum(candidates, target);
         System.out.println(lists);
 
