@@ -2,7 +2,10 @@ package 二叉树.Q102_二叉树的层序遍历;
 
 import 二叉树.TreeNode;
 
-import java.util.*;
+import java.util.ArrayDeque;
+import java.util.ArrayList;
+import java.util.Deque;
+import java.util.List;
 
 public class Solution {
     public List<List<Integer>> levelOrder(TreeNode root) {
@@ -24,9 +27,9 @@ public class Solution {
                 if (node.right != null) {
                     deque.addLast(node.right);
                 }
-                if (!list.isEmpty())
-                    res.add(list);
             }
+            if (!list.isEmpty())
+                res.add(list);
 
         }
         return res;
