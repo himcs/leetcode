@@ -30,15 +30,18 @@ public class Solution {
         // 根节点 下标
         int inorderRootIndex = rootMap.get(rootVal);
         // 得到左子树中的节点数目 inorderRootIndex - inorderLeft
-        int sizeLeftSubtree = inorderRootIndex - inorderLeft;
-        int sizeRightSubtree = inorderRight - inorderRootIndex;
-        System.out.println((sizeLeftSubtree) + ":" +( sizeRightSubtree));
+        int leftLen = inorderRootIndex - inorderLeft;
+        int rightLen = inorderRight - inorderRootIndex;
         // 左子树 =  [preorderLeft + 1,?] = [ inorderLeft, inorderRootIndex - 1]
         // ? -  preorderLeft + 1 =   inorderRootIndex - 1 - inorderLeft
         // 左结束节点位置 = inorderRootIndex - 1 - inorderLeft + preorderLeft + 1 = inorderRootIndex - inorderLeft + preorderLeft
-        treeNode.left = buildTree(preorderLeft + 1, preorderLeft+sizeLeftSubtree , inorderLeft, inorderRootIndex - 1);
+        int leftPreRight = preorderLeft + leftLen;
+        treeNode.left = buildTree(preorderLeft + 1, leftPreRight, inorderLeft, inorderRootIndex - 1);
         // 右子树 长度 = [左结束节点位置+1,preorderRight] = [inorderRootIndex + 1,inorderRight]
-        treeNode.right = buildTree(preorderLeft+sizeLeftSubtree +1, preorderRight, inorderRootIndex + 1, inorderRight);
+        //  preorderRight - x = inorderRight - (inorderRootIndex + 1)
+        // x = preorderRight - inorderRight - (inorderRootIndex + 1)
+        //右子树起始位置  preorderRight - rightLen + 1 = leftPreRight+1 两种计算方式等价
+        treeNode.right = buildTree(preorderRight - rightLen + 1, preorderRight, inorderRootIndex + 1, inorderRight);
         return treeNode;
     }
 
